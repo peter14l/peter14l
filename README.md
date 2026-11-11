@@ -1,44 +1,101 @@
-## Hi there! 👋
+<div align="center">
 
-I'm **peter14l**, a passionate developer with a knack for creating innovative solutions. I love exploring new technologies and building projects that make a difference.
+<img src="assets/header.svg" alt="peter14l" width="100%">
 
-## About Me
+<a href="https://github.com/peter14l">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=680&height=44&lines=Flutter+%26+Dart+developer;Kotlin+and+Android+tinkerer;Backends+with+Supabase;Shipping+apps+that+make+a+difference" alt="Typing animation">
+</a>
 
-Currently, I'm based in an undisclosed location and I'm always eager to learn and grow in the tech field. I focus on building applications and exploring programming languages that empower users and developers alike.
+<p>
+  <img src="https://img.shields.io/badge/Flutter-2563EB?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-1D4ED8?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Kotlin-3B82F6?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Supabase-1E40AF?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Git-60A5FA?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-## Skills & Technologies
+<img src="assets/divider.svg" alt="" width="100%">
 
-dart,flutter,git,kotlin,supabase
+<img src="assets/bento.svg" alt="About peter14l: tech stack, current projects and focus" width="100%">
 
-## Top Projects
+<img src="assets/divider.svg" alt="" width="100%">
 
-Here are some of my favorite projects:
+</div>
 
-- [**msix**](https://github.com/peter14l/msix): Create Msix installer for flutter windows-build files. ⭐ 0
-- [**aqi_app**](https://github.com/peter14l/aqi_app): A simple application for displaying air quality index data. ⭐ 0
-- [**public-apis**](https://github.com/peter14l/public-apis): A collective list of free APIs. ⭐ 0
-- [**ASI**](https://github.com/peter14l/ASI): Integrating Android Gemini into Android Systems Intelligence. ⭐ 0
-- [**notespark**](https://github.com/peter14l/notespark): A note-taking application built with modern technologies. ⭐ 0
+## Projects
 
-## GitHub Stats
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/peter14l/msix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=msix&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A&icon_color=2563EB&border_color=BFDBFE&border_radius=20" alt="msix" width="100%">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/peter14l/aqi_app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=aqi_app&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A&icon_color=2563EB&border_color=BFDBFE&border_radius=20" alt="aqi_app" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/peter14l/ASI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=ASI&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A&icon_color=2563EB&border_color=BFDBFE&border_radius=20" alt="ASI" width="100%">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/peter14l/notespark">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=notespark&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A&icon_color=2563EB&border_color=BFDBFE&border_radius=20" alt="notespark" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/peter14l/public-apis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=public-apis&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A&icon_color=2563EB&border_color=BFDBFE&border_radius=20" alt="public-apis" width="100%">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter14l&layout=compact&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A&border_color=BFDBFE&border_radius=20" alt="Top languages" width="100%">
+    </td>
+  </tr>
+</table>
 
-🌟 **Public Repositories:** 7  
-👥 **Followers:** 0  
-🔗 **Following:** 0  
+## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peter14l&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=peter14l&show_icons=true&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E3A8A&icon_color=2563EB&border_color=BFDBFE&border_radius=20&rank_icon=github" alt="GitHub stats" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=peter14l&background=FFFFFF&border=BFDBFE&stroke=BFDBFE&ring=2563EB&fire=2563EB&currStreakNum=1D4ED8&sideNums=1D4ED8&currStreakLabel=2563EB&sideLabels=1E3A8A&dates=64748B&border_radius=20" alt="Contribution streak" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=peter14l&bg_color=FFFFFF&color=1D4ED8&line=2563EB&point=1E3A8A&area=true&area_color=60A5FA&hide_border=true&radius=20&title_color=1D4ED8" alt="Contribution activity graph" width="100%">
+    </td>
+  </tr>
+</table>
 
-## Recent Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter14l/peter14l/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/peter14l/peter14l/output/github-snake.svg" alt="Contribution snake" width="100%">
+  </picture>
+</div>
 
-Here are some of my latest activities on GitHub:
-- Forked [msix](https://github.com/peter14l/msix) on November 23, 2025.
-- Pushed changes to [aqi_app](https://github.com/peter14l/aqi_app) on November 22, 2025.
-- Created a new branch in [peter14l](https://github.com/peter14l/peter14l) on November 22, 2025.
+## Connect
 
-## Latest Blog Posts
+<div align="center">
+  <a href="https://github.com/peter14l"><img src="https://img.shields.io/badge/GitHub-peter14l-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <!-- Add your links, e.g.:
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  -->
+</div>
 
-Coming soon! Stay tuned for updates on my latest thoughts and projects.
+<br>
 
-## Connect with Me
-
-{}
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%">
