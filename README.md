@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="assets/header.svg" alt="peter14l" width="100%">
+<img src="assets/header.svg" alt="Shreyas Sengupta" width="100%">
 
 <a href="https://github.com/peter14l">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=493024&center=true&vCenter=true&width=680&height=44&lines=Flutter+%26+Dart+developer;Kotlin+and+Android+tinkerer;Backends+with+Supabase;Building+things+that+matter" alt="Typing animation">
@@ -17,13 +16,13 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-<img src="assets/bento.svg" alt="About peter14l: tech stack, current projects and focus" width="100%">
+<img src="assets/bento.svg" alt="About Shreyas Sengupta: tech stack, current projects and focus" width="100%">
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 </div>
 
-## Projects
+## Selected Projects
 
 <div align="center">
 
@@ -31,35 +30,35 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/peter14l/msix">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=msix&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="msix" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=msix&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="msix repository" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/peter14l/aqi_app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=aqi_app&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="aqi_app" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=aqi_app&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="aqi_app repository" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/peter14l/ASI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=ASI&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="ASI" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=ASI&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="ASI repository" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/peter14l/notespark">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=notespark&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="notespark" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=notespark&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="notespark repository" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/peter14l/public-apis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=public-apis&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="public-apis" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peter14l&repo=public-apis&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16" alt="public-apis repository" width="100%">
       </a>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter14l&layout=compact&bg_color=F5EBDD&title_color=493024&text_color=735F50&border_color=D8C1A5&border_radius=16" alt="Top languages" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter14l&layout=compact&bg_color=F5EBDD&title_color=493024&text_color=735F50&border_color=D8C1A5&border_radius=16" alt="Most used languages" width="100%">
     </td>
   </tr>
 </table>
@@ -73,7 +72,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=peter14l&show_icons=true&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16&rank_icon=github" alt="GitHub stats" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=peter14l&show_icons=true&bg_color=F5EBDD&title_color=493024&text_color=735F50&icon_color=A47755&border_color=D8C1A5&border_radius=16&rank_icon=github" alt="GitHub statistics" width="100%">
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com?user=peter14l&background=F5EBDD&border=D8C1A5&stroke=D8C1A5&ring=A47755&fire=8B5E3C&currStreakNum=493024&sideNums=493024&currStreakLabel=A47755&sideLabels=735F50&dates=9A8979&border_radius=16" alt="Contribution streak" width="100%">
@@ -92,9 +91,7 @@
 
 <div align="center">
 
-<p>
-  <i>Every contribution tells a story.</i>
-</p>
+<i>Every contribution tells a story.</i>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter14l/peter14l/output/github-snake-dark.svg">
@@ -108,7 +105,7 @@
 <div align="center">
 
 <a href="https://github.com/peter14l">
-  <img src="https://img.shields.io/badge/GitHub-peter14l-493024?style=for-the-badge&logo=github&logoColor=F5EBDD" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Shreyas-Sengupta-493024?style=for-the-badge&logo=github&logoColor=F5EBDD" alt="GitHub">
 </a>
 
 <!-- Add your links when ready:

@@ -1,0 +1,9 @@
+CHOCOLATE & BEIGE GITHUB PROFILE
+
+1. Replace the profile repository README.md with this README.md.
+2. Copy the assets/ directory into the repository root, preserving its name.
+3. Copy .github/workflows/snake.yml into .github/workflows/snake.yml.
+4. Commit and push to main. The snake workflow will regenerate the contribution SVGs.
+
+The README expects these paths: assets/header.svg, assets/bento.svg, assets/divider.svg, assets/footer.svg.
+The snake workflow publishes github-snake.svg and github-snake-dark.svg to the output branch.
