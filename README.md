@@ -116,7 +116,7 @@
 <a href="https://github.com/peter14l">
   <img src="https://img.shields.io/badge/GitHub-peter14l-493024?style=for-the-badge&logo=github&logoColor=F5EBDD" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/in/shreyas-sengupta-dev">
+<a href="https://www.linkedin.com/in/shreyassengupta2501/">
   <img src="https://img.shields.io/badge/LinkedIn-Shreyas_Sengupta-A47755?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
 </a>
 
